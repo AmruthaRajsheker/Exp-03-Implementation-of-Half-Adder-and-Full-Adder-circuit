@@ -60,21 +60,24 @@ endmodule
 # Logic symbol & Truthtable
 ![image](https://user-images.githubusercontent.com/119475943/232210195-850d4088-6fc9-4669-a7b5-0887dca35006.png)
 
-
 # RTL realization
 HALF ADDER
+
 ![3](https://user-images.githubusercontent.com/119475943/232223825-69bc9dcd-ee1b-49b4-bcbc-3cdf641c7aaa.png)
 
 FULL ADDER
+
 ![4](https://user-images.githubusercontent.com/119475943/232223825-69bc9dcd-ee1b-49b4-bcbc-3cdf641c7aaa.png)
 
 ### Output:
 ### RTL
 ### TIMING DIAGRAM
 HALF ADDER
+
 ![image](https://user-images.githubusercontent.com/119475943/232223977-6e4685c3-e7b2-4852-a29d-1e529dc91427.png)
 
 FULL ADDER
+
 ![image](https://user-images.githubusercontent.com/119475943/232223985-52346be5-0d6e-487e-bc9e-6a9121f3ffed.png)
 
 ### TRUTH TABLE 
